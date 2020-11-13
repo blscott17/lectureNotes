@@ -1,0 +1,46 @@
+li {
+    display: inline;
+    text-align: left
+}
+
+button {
+    background-color: lightcoral;
+}
+
+body{
+    background-color: rgb(100, 91, 91);
+}
+
+header{
+    margin-top: 18%;
+    background-color: lightgrey;
+    height: 5%;
+    width: 100%
+}
+#container{
+    margin: auto; 
+    width: 45%;
+    margin:auto;
+}
+
+h1{
+    padding-left: 20%;
+}
+
+p{
+    padding-left: 12%;
+}
+#formbox {
+    width: 60%;
+    margin: auto;
+    background-color: lightgrey;
+    border-radius: 1%;
+    text-align: center;
+}
+
+form {
+    width: 60%;
+    height: 80%;
+    
+ 
+}

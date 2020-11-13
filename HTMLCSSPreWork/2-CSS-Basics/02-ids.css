@@ -1,0 +1,26 @@
+/* For Testing */
+ /* Changed background color from blue  */
+ body {
+    background-color:lightyellow;
+}  
+
+/* rule-set #1  */
+#number-one{
+    color:blue;
+}
+
+/* rule-set #2 */ 
+/* changed font size from 16px */
+#number-two{
+    font-size: 22px;
+}
+
+/* rule-set #3 */
+.first-class{
+    color:red;
+}
+
+/* rule-set #4 */
+.second-class{
+    font-size: 24px;
+}

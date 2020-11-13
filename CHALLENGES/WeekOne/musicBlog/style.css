@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+htnl {
+    font-size: 10px;
+    background: linear-gradient(
+        133deg,
+        rgba(235, 217, 181,1) 0%,
+        rgba(236, 105, 165,1) 50%,
+        rgba(89, 232, 247,1) 100%,
+    )
+}

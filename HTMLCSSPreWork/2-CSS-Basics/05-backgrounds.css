@@ -1,0 +1,31 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align: center;
+}
+/*this sets the background color of the entire body*/
+body{
+    /*background-image: linear-gradient(skyblue,darkgreen);*/
+    background-image:url("../3-assets/Grey Textured_.jpg"); 
+}
+
+
+/* 4 */
+.background1{
+    background-color: white;
+}
+
+/* 5 */
+.background2{
+    background-color: rgb(200, 217, 240);
+
+}
+    /* background-image:url("../3-assets/upfeathers.png"); */
+
+/* 7 */
+table, th, td{
+    border: 2px solid black;
+}

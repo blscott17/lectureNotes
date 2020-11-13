@@ -1,0 +1,9 @@
+/* Changed background color from #D3D3D3 to #:#9DDFCC  */
+body {
+    background-color:#9DDFCC;
+}
+/* To create a comment quickly enter CTRL + / 
+Changed border from 10px solid red to 5px solid PURPLE */
+.wrapper {
+    border: 5px solid PURPLE;
+}
